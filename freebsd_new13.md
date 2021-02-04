@@ -9,9 +9,9 @@ Highlights from the new release include:
 * 5X if_bridge performance improvements for scalability on multicore systems or multiple VMs
 * FreeBSD Network stack and TCP congestion control improvements
 * Significant support for RISC-V systems
-* Greater ARM64 support for servers and embedded devices like Raspberry Pi. 
+* Greater ARM64 support for servers and embedded devices like Raspberry Pi 
 * Removal of obsolete GPL components. 
 
 Finally, not specific to the 13.0 release, the Project has made the transition from subversion to git making it easier for new folks to contribute. It has also switched to a new OpenZFS upstream that supports FreeBSD and Linux, allowing us to collaborate .
 
-For more 13.0 content, check the video section of the FOSDEM site. If you are new to FreeBSD or have been away for a while, the 13.0 release is a great time to give it go. Don’t forget to check the new online content to help you get started and ask questions about FreeBSD including: FreeBSD Office Hours, FreeBSD Fridays, and several developers have hosted twitch live streaming sessions.
+For more 13.0 content, check the video section of the FOSDEM site. If you are new to FreeBSD or have been away for a while, the 13.0 release is a great time to give it a go. Don’t forget to check the new online content to help you get started and ask questions about FreeBSD including: [FreeBSD Office Hours](https://wiki.freebsd.org/OfficeHours), [FreeBSD Fridays](https://freebsdfoundation.org/freebsd-fridays/), and several developers have hosted twitch live streaming sessions.
