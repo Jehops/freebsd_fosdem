@@ -1,6 +1,6 @@
 # Getting Started with FreeBSD
 
-As part of the FreeBSD Foundation’s education initiative, we’ve worked with community members and new recruits to develop guides that make getting started with FreeBSD a straight forward process.
+As part of the FreeBSD Foundation’s education initiative, we’ve worked with community members and new recruits to develop guides that make getting started with FreeBSD a straight forward process. More Information can be found on the [FreeBSD Resources ](https://freebsdfoundation.org/freebsd-project/resources/) page.
 
 ## FreeBSD Installation Guides:
 [Installing FreeBSD with VirtualBox (Mac/Windows) ](https://freebsdfoundation.org/freebsd/how-to-guides/installing-freebsd-with-virtualbox/)
@@ -36,6 +36,6 @@ As part of the FreeBSD Foundation’s education initiative, we’ve worked with 
 [How to Submit a Bug Report](https://freebsdfoundation.org/freebsd-project/resources/how-to-submit-a-bug-report/)
 
 ## Webinars
-[FreeBSD Fridays](https://freebsdfoundation.org/freebsd-fridays/)
+[FreeBSD Fridays](https://freebsdfoundation.org/freebsd-fridays/) - Series of 1 hour introductory talks on FreeBSD-related topics.
 
-[FreeBSD Office Hours](https://wiki.freebsd.org/OfficeHours)
+[FreeBSD Office Hours](https://wiki.freebsd.org/OfficeHours) - Q&A with members of the FreeBSD Community. Topics include general Q&A sessions, Town Hall meetings with the FreeBSD Core Team, Bhyve, and more.
