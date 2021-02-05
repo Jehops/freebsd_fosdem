@@ -1,3 +1,8 @@
+---
+title: "What's New in FreeBSD 13.0"
+draft: false
+---
+
 # What's New in FreeBSD 13.0
 Scheduled to release in late March, 13.0 is the culmination of two years of hard work and showcases a shift in focus towards the future of FreeBSD. From changes in architecture and the removal of legacy tooling to faster systems and subsystems, the Project’s commitment towards looking at the future of FreeBSD is in motion!
 

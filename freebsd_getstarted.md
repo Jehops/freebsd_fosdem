@@ -1,3 +1,7 @@
+---
+title: "Getting Started with FreeBSD"
+draft: false
+---
 # Getting Started with FreeBSD
 
 As part of the FreeBSD Foundation’s education initiative, we’ve worked with community members and new recruits to develop guides that make getting started with FreeBSD a straight forward process. More Information can be found on the [FreeBSD Resources ](https://freebsdfoundation.org/freebsd-project/resources/) page.
