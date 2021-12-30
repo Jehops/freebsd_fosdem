@@ -6,35 +6,37 @@ description: |
   provides a copy-free modern operating system that is up-to-date and scalable, offers
   high-performance, security, and advanced networking. It is used for personal workstations,
   Internet servers, embedded devices, routers, and firewalls. The FreeBSD packages
-  collection includes popular software like: Apache web server, GNOME, KDE, X.org,
-  Python, Firefox and over 33,000 software suites. The FreeBSD community is comprised
+  collection includes popular software like: Apache and Nginx web servers, GNOME, KDE, X.org,
+  Python, Firefox and over 40,000 software packages. The FreeBSD community is comprised
   of a global community of end users, developers and companies large and small working
   together to further the OS.
 layout: stand
 logo: stands/freebsd_project/logo.png
 new_this_year: |
-  <p>Since our last visit to FOSDEM, the FreeBSD Project has made strides
-  in a number of areas including the soon to be available 13.0 release.
-  First and foremost, the Project made the transition to git making it easier
-  for folks to contribute. Great improvements were made in the graphics stack,
-  as well as, to browser and video conferencing capabilities to allow for
-  support on most any contemporary laptop. There is now better ARM64 support
-  for servers and embedded devices like Raspberry Pi. The Project switched to a
-  new OpenZFS upstream that supports FreeBSD and Linux. The removal of obsolete
-  GPL components has been completed along with many network stack improvements.
-  Finally, there is a lot of new online content to help folks get started and
-  ask questions about FreeBSD including:
-  <a href="https://wiki.freebsd.org/OfficeHours/">FreeBSD Office Hours</a>,
-  <a href="https://freebsdfoundation.org/freebsd-fridays/">FreeBSD Fridays</a>,
-  and several developers have hosted twitch live streaming sessions.</p>
+  <p>Since our last visit to FOSDEM, the FreeBSD Project has made strides in a
+  number of areas and published two new releases, 12.3 and 13.0.  The Project
+  completed the transition to Git making it easier for folks to
+  contribute. Considerable improvements were made in the LLDB (the LLVM/Clang
+  debugger), the Linux compatibility layer, wireless drivers, kernel
+  sanitization, the documentation system, and many other areas. There is now
+  better ARM64 support for servers and embedded devices like Raspberry Pi. The
+  Project switched to a new OpenZFS upstream that supports FreeBSD and
+  Linux. The removal of obsolete GPL components has been completed along with
+  many network stack improvements.  Finally, there is a lot of new online
+  content to help folks get started and ask questions about FreeBSD including:
+  <a href="https://wiki.freebsd.org/OfficeHours/">FreeBSD Office Hours</a>, <a
+  href="https://freebsdfoundation.org/freebsd-fridays/">FreeBSD Fridays</a>, and
+  several developers have hosted twitch live streaming sessions.</p>
 
-  <h3>What’s Ahead in 13.0</h3>
-  <p>Scheduled to release in late March, 13.0 is the culmination of two years
-  of hard work and showcases a shift in focus towards the future of FreeBSD.
-  From changes in architecture and the removal of legacy tooling to faster
-  systems and subsystems, the Project’s commitment towards looking at the
-  future of FreeBSD is in motion! Check out the sidebar for more info on the
-  13.0 release</p>
+  <h3>What’s Ahead for 2022</h3>
+
+  <p>No major releases are expected in 2022.  Conservative improvements to the
+  13 branch will result in a 13.1 release and the 12.2 release will reach
+  end-of-life in early 2022.  Expect exciting additions and improvements in the
+  main branch including improved laptop support with better wireless and
+  graphics drivers, the long-awaited pkgbase update method, Thunderbolt 3 and
+  USB 4 support, more security mitigations, and bhyve hypervisor
+  improvements.</p>
 
   <h3>Get Involved</h3>
   <p>From submitting bug fixes to working on the documentation, there are a lot
