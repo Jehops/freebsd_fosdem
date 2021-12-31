@@ -1,6 +1,6 @@
 ---
 title: "Getting Started with FreeBSD"
-draft: false
+draft: true
 ---
 # Getting Started with FreeBSD
 

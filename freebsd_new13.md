@@ -1,10 +1,10 @@
 ---
 title: "What's New in FreeBSD 13.0"
-draft: false
+draft: true
 ---
 
 # What's New in FreeBSD 13.0
-Scheduled to release in late March, 13.0 is the culmination of two years of hard work and showcases a shift in focus towards the future of FreeBSD. From changes in architecture and the removal of legacy tooling to faster systems and subsystems, the Project’s commitment towards looking at the future of FreeBSD is in motion!
+Released on April 13 2021, 13.0 is the culmination of two years of hard work and showcases a shift in focus towards the future of FreeBSD. From changes in architecture and the removal of legacy tooling to faster systems and subsystems, the Project’s commitment towards looking at the future of FreeBSD is in motion!
 
 Highlights from the new release include:
 * Exciting TLS in the Kernel developments to maximize performance 
@@ -17,6 +17,6 @@ Highlights from the new release include:
 * Greater ARM64 support for servers and embedded devices like Raspberry Pi 
 * Removal of obsolete GPL components. 
 
-Finally, not specific to the 13.0 release, the Project has made the transition from subversion to git making it easier for new folks to contribute. It has also switched to a new OpenZFS upstream that supports FreeBSD and Linux, allowing us to collaborate .
+Finally, not specific to the 13.0 release, the Project completed the transition from subversion to git making it easier to contribute.   The Project also switched to a new OpenZFS upstream that supports FreeBSD and Linux, resulting in better ZFS collaboration.
 
 For more 13.0 content, check the video section of the FOSDEM site. If you are new to FreeBSD or have been away for a while, the 13.0 release is a great time to give it a go. Don’t forget to check the new online content to help you get started and ask questions about FreeBSD including: [FreeBSD Office Hours](https://wiki.freebsd.org/OfficeHours), [FreeBSD Fridays](https://freebsdfoundation.org/freebsd-fridays/), and several developers have hosted twitch live streaming sessions.
